@@ -1,4 +1,4 @@
-# TaxCalculator
+# Tax Calculator
 > Made a tax calculator for married couples in excel.
 > Dependencies are included in this repo.
 > Tools used: Pandas, NumPy, Openpyxl, and Microsoft Excel
